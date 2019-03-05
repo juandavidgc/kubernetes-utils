@@ -1,6 +1,5 @@
 #!/bin/sh
 
-swapoff -a
 echo "Installing Docker"
 apt-get update
 apt-get install -y \
